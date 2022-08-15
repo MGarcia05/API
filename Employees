@@ -1,0 +1,434 @@
+[
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Annie",
+      "last": "Hill"
+    },
+    "location": {
+      "street": {
+        "number": 4112,
+        "name": "Green Rd"
+      },
+      "city": "Salem",
+      "state": "Louisiana",
+      "country": "United States",
+      "postcode": 85098,
+      "coordinates": {
+        "latitude": "-37.5239",
+        "longitude": "33.7364"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "annie.hill@example.com",
+    "dob": {
+      "date": "1946-09-02T20:01:32.722Z",
+      "age": 75
+    },
+    "phone": "(476) 807-7832",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/69.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Miss",
+      "first": "Ruby",
+      "last": "May"
+    },
+    "location": {
+      "street": {
+        "number": 7869,
+        "name": "Bollinger Rd"
+      },
+      "city": "Downey",
+      "state": "Kansas",
+      "country": "United States",
+      "postcode": 82110,
+      "coordinates": {
+        "latitude": "69.8876",
+        "longitude": "-49.0048"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "ruby.may@example.com",
+    "dob": {
+      "date": "1988-09-22T02:36:30.347Z",
+      "age": 33
+    },
+    "phone": "(690) 958-5372",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Miss",
+      "first": "Brandy",
+      "last": "Wade"
+    },
+    "location": {
+      "street": {
+        "number": 4124,
+        "name": "Mcgowen St"
+      },
+      "city": "North Las Vegas",
+      "state": "Kentucky",
+      "country": "United States",
+      "postcode": 92275,
+      "coordinates": {
+        "latitude": "46.7318",
+        "longitude": "-161.9776"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "brandy.wade@example.com",
+    "dob": {
+      "date": "1979-08-27T09:19:36.807Z",
+      "age": 42
+    },
+    "phone": "(900) 354-1330",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/84.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Isaac",
+      "last": "Moore"
+    },
+    "location": {
+      "street": {
+        "number": 895,
+        "name": "Rolling Green Rd"
+      },
+      "city": "Charlotte",
+      "state": "West Virginia",
+      "country": "United States",
+      "postcode": 22196,
+      "coordinates": {
+        "latitude": "-0.3325",
+        "longitude": "42.2004"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "isaac.moore@example.com",
+    "dob": {
+      "date": "1954-07-24T06:48:51.692Z",
+      "age": 68
+    },
+    "phone": "(733) 783-9408",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/20.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Willie",
+      "last": "Lucas"
+    },
+    "location": {
+      "street": {
+        "number": 2991,
+        "name": "Photinia Ave"
+      },
+      "city": "Rancho Cucamonga",
+      "state": "North Dakota",
+      "country": "United States",
+      "postcode": 69200,
+      "coordinates": {
+        "latitude": "14.7788",
+        "longitude": "8.4718"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "willie.lucas@example.com",
+    "dob": {
+      "date": "1978-06-05T15:03:47.566Z",
+      "age": 44
+    },
+    "phone": "(593) 312-0301",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Bertha",
+      "last": "Bates"
+    },
+    "location": {
+      "street": {
+        "number": 8355,
+        "name": "Hunters Creek Dr"
+      },
+      "city": "Wichita",
+      "state": "Texas",
+      "country": "United States",
+      "postcode": 61390,
+      "coordinates": {
+        "latitude": "-23.1064",
+        "longitude": "74.4684"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "bertha.bates@example.com",
+    "dob": {
+      "date": "1983-01-17T23:39:19.973Z",
+      "age": 39
+    },
+    "phone": "(412) 282-3087",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Regina",
+      "last": "Jensen"
+    },
+    "location": {
+      "street": {
+        "number": 6085,
+        "name": "N Stelling Rd"
+      },
+      "city": "Tempe",
+      "state": "Ohio",
+      "country": "United States",
+      "postcode": 81815,
+      "coordinates": {
+        "latitude": "14.0438",
+        "longitude": "171.4762"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "regina.jensen@example.com",
+    "dob": {
+      "date": "1945-06-08T00:25:31.402Z",
+      "age": 77
+    },
+    "phone": "(774) 339-6290",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Daryl",
+      "last": "Romero"
+    },
+    "location": {
+      "street": {
+        "number": 2878,
+        "name": "Dane St"
+      },
+      "city": "El Monte",
+      "state": "Georgia",
+      "country": "United States",
+      "postcode": 63912,
+      "coordinates": {
+        "latitude": "-81.0771",
+        "longitude": "155.2956"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "daryl.romero@example.com",
+    "dob": {
+      "date": "1996-05-31T19:48:14.552Z",
+      "age": 26
+    },
+    "phone": "(717) 654-8253",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/56.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Roland",
+      "last": "Gonzales"
+    },
+    "location": {
+      "street": {
+        "number": 5952,
+        "name": "Valley View Ln"
+      },
+      "city": "South Valley",
+      "state": "Missouri",
+      "country": "United States",
+      "postcode": 78956,
+      "coordinates": {
+        "latitude": "-84.9222",
+        "longitude": "-137.9135"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "roland.gonzales@example.com",
+    "dob": {
+      "date": "1973-08-31T00:33:29.372Z",
+      "age": 48
+    },
+    "phone": "(576) 342-5573",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/34.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Chester",
+      "last": "Dixon"
+    },
+    "location": {
+      "street": {
+        "number": 7453,
+        "name": "E Little York Rd"
+      },
+      "city": "Madison",
+      "state": "New Mexico",
+      "country": "United States",
+      "postcode": 64698,
+      "coordinates": {
+        "latitude": "-87.5143",
+        "longitude": "33.7944"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "chester.dixon@example.com",
+    "dob": {
+      "date": "1987-12-14T17:20:20.192Z",
+      "age": 34
+    },
+    "phone": "(352) 859-5489",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Daniel",
+      "last": "Allen"
+    },
+    "location": {
+      "street": {
+        "number": 8592,
+        "name": "Westheimer Rd"
+      },
+      "city": "Cedar Hill",
+      "state": "Colorado",
+      "country": "United States",
+      "postcode": 73891,
+      "coordinates": {
+        "latitude": "-36.0069",
+        "longitude": "90.6191"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "daniel.allen@example.com",
+    "dob": {
+      "date": "1949-11-11T04:15:21.789Z",
+      "age": 72
+    },
+    "phone": "(952) 387-7598",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/29.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Elizabeth",
+      "last": "Boyd"
+    },
+    "location": {
+      "street": {
+        "number": 3923,
+        "name": "W 6th St"
+      },
+      "city": "Jackson",
+      "state": "Connecticut",
+      "country": "United States",
+      "postcode": 94094,
+      "coordinates": {
+        "latitude": "-81.4236",
+        "longitude": "6.0824"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "elizabeth.boyd@example.com",
+    "dob": {
+      "date": "1979-05-24T11:08:47.796Z",
+      "age": 43
+    },
+    "phone": "(909) 238-8161",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/40.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+    }
+  }
+]
